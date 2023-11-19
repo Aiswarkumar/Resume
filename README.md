@@ -1,2 +1,2 @@
 # Resume
-#file:///D:/Aiswar/Resume/Resume.pdf
+[embed]http://file:///D:/Aiswar/Resume/Resume.pdf[/embed]
